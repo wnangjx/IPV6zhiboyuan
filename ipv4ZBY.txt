@@ -227,6 +227,7 @@ CCTV14,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001240/index.m
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 
 ❤️两岸三地,#genre#
+中天新闻,http://108.181.20.193:27347/livehttpplay?channel_id=13001
 中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 中天新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
@@ -344,6 +345,19 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 大同煤都生活,http://lu1.cc/itv/sxitv/dtxl.php?id=mdsh
 DT-1大同新闻综合频道,http://iptv.006w.com/api/dt/dt.php?id=16
 DT-2大同公共频道,http://iptv.006w.com/api/dt/dt.php?id=8
+大连微电影,rtmp://live.dltv.cn:1935/live/live10
+大连新闻,http://live.dltv.cn:81/live1/live1_video.m3u8
+大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
+大连生活,http://live.dltv.cn:81/live2/live2_video.m3u8
+大连生活,http://live.cooltv.top/tv/cutv.php?id=dlsh
+大连公共,http://live.dltv.cn:81/live3/live3_video.m3u8
+大连文体,http://live.dltv.cn:81/live4/live4_video.m3u8
+大连文体,http://live.cooltv.top/tv/cutv.php?id=dlwt
+大连影视,http://live.dltv.cn:81/live5/live5_video.m3u8
+大连影视,http://live.cooltv.top/tv/cutv.php?id=dlzhys
+大连少儿,http://live.dltv.cn:81/live6/live6_video.m3u8
+大连少儿,http://live.cooltv.top/tv/cutv.php?id=dlse
+大连财经,http://live.dltv.cn:81/live7/live7_video.m3u8
 
 斗鱼虎牙,#genre#
 邵氏影院,http://epg.112114.xyz/douyu/4246519
