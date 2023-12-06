@@ -389,6 +389,8 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 电影频道,#genre#
+1905国际,http://47.109.155.164/vv/1905.php?id=1905a
+1905国内,http://47.109.155.164/vv/1905.php?id=1905b
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -414,11 +416,14 @@ CCTV-16 奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch000000909900000
 广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 
 粉丝定制,#genre#
+岭南戏剧 高清,http://222.218.159.220:8181/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,http://113.117.74.18:8081/hls/87/index.m3u8
 星空卫视,http://120.84.96.21:808/hls/79/index.m3u8
 中天新聞 HD,http://211.72.65.236:8541/.m3u8
 中天新聞 HD,mitv://135.148.104.228:19806/dd4c2ce1c791486caac5b9014c08793e
+广东影视 高清,http://222.218.159.220:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+广东珠江,,http://222.218.159.220:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
