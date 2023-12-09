@@ -426,7 +426,7 @@ CCTV-16 奥林匹克,http://[2409:8087:1e03:21::2]:6060/cms001/ch000000909900000
 贾玲春晚小品,https://live.metshop.top/yy/1382736720
 宋小宝小品合集,https://live.metshop.top/yy/1354931577
 宋小宝春晚小品合集,https://live.metshop.top/yy/1382736866
-
+陕西新闻,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西一套,http://112.46.85.60:808/hls/18/index.m3u8
 陕西二套,http://112.46.85.60:808/hls/19/index.m3u8
 陕西三套,http://112.46.85.60:808/hls/20/index.m3u8
