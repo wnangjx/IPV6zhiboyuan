@@ -1,10 +1,10 @@
 搞机大师出品,#genre#
-关注抖音号：,https://cloud.lxweb.cn/f/9kXkC1/%E5%8F%AF%E8%83%BD.mp4
-35492379515,https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
-关注公众号,https://vd4.bdstatic.com/mda-kifwywyz3t3qd51z/sc/mda-kifwywyz3t3qd51z.mp4
-搞机大师的藏宝阁,https://cloud.lxweb.cn/f/OyQ1Cb/%E6%9D%8E%E5%AD%90%E6%9F%92.mp4
+关注抖音号,https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
+35492379515,https://cloud.lxweb.cn/f/9kGLc1/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0.mp4
+关注公众号,https://cloud.lxweb.cn/f/Oy0NSb/%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7.mp4
+搞机大师的藏宝阁,https://cloud.lxweb.cn/f/0glZu0/%E5%8F%AF%E8%83%BD.mp4
 关注不迷路,https://pay.haiqu.vip:2266/hls/spsj/2019/12/05/10849/playlist.m3u8
-持续更新,https://vd4.bdstatic.com/mda-mmncsg3gspc9rq5m/480p/h264/1640253169234879704/mda-mmncsg3gspc9rq5m.mp4
+微信号,https://cloud.lxweb.cn/f/Oy0NSb/%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7.mp4
 4K8K频道,#genre#
 爱上4k,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 纯享4k,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
@@ -410,6 +410,7 @@ NewTV系列,#genre#
 「海南」海南少儿「IPV6」,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 「海南」海南公共「IPV6」,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 「海南」三亚卫视「IPV6」,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
+「陕西」陕西新闻「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 「陕西」宝鸡1「IPV6」,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
 「陕西」宝鸡2「IPV6」,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
 「陕西」安康综合「IPV6」,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
