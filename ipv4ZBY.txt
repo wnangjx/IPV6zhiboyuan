@@ -3,7 +3,6 @@
 35492379515,https://cloud.lxweb.cn/f/9kGLc1/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0.mp4
 关注公众号,https://cloud.lxweb.cn/f/Oy0NSb/%E5%85%B3%E6%B3%A8%E5%85%AC%E4%BC%97%E5%8F%B7.mp4
 搞机大师的藏宝阁,https://cloud.lxweb.cn/f/0glZu0/%E5%8F%AF%E8%83%BD.mp4
-关注不迷路,https://pay.haiqu.vip:2266/hls/spsj/2019/12/05/10849/playlist.m3u8
+此接口暂停更新,https://pay.haiqu.vip:2266/hls/spsj/2019/12/05/10849/playlist.m3u8
 
-此接口暂停更新,
-请前往公众号获取最新接口,
+前往公众号获取最新接口,https://cloud.lxweb.cn/f/0glZu0/%E5%8F%AF%E8%83%BD.mp4
