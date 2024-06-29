@@ -1,11 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/gaoji.json",
-      "name": "🚀搞机大师的藏宝阁🚀"
-    },
-    {
-      "url": "https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/tvbox.json",
+      "url": "https://raw.githubusercontent.com/wnangjx/IPV6zhiboyuan/main/gaoji.json",
       "name": "🚀搞机大师🚀"
     },
     {
