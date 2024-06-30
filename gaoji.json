@@ -1324,7 +1324,7 @@
     {
       "name": "sao0",
       "type": 0,
-      "url": "https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/aikanTV.txt",
+      "url": "http://139.196.228.200:5000/ysp.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1333,7 +1333,7 @@
     {
       "name": "ipv6",
       "type": 0,
-      "url": "https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/aikanTV.txt",
+      "url": "http://139.196.228.200:5000/ysp.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
